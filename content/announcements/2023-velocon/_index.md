@@ -106,7 +106,7 @@ part of this year's marquee event of the open-source DFIR calendar.
   </tr>
   <tr>
     <td style="border-left: 1px solid #000000; padding-left: 10px" height="20" align="left" valign=bottom><font size=3 color="#000000">1:45-2:30 pm </font></td>
-    <td align="left" valign=bottom><font size=3 color="#000000">Wes Lambert <br> Founder & CEO, Glue Security</font></td>
+    <td align="left" valign=bottom><font size=3 color="#000000">Wes Lambert </font></td>
     <td style="border-right: 1px solid #000000" align="left" valign=bottom><font size=3 color="#000000">
         <a href="#empowering-soc-analysts-with-velociraptor-revolutionizing-live-response-and-automation">
           Clawing Your Way To Compliance with Velociraptor
@@ -368,7 +368,7 @@ resourceful and self-starting as a result.
 
 ### Clawing Your Way To Compliance with Velociraptor
 
-By **Wes Lambert** - Founder & CEO, Glue Security
+By **Wes Lambert** 
 
 In this presentation, we’ll explore the multifaceted capabilities of Velociraptor as an endpoint visibility monitoring tool in meeting various security compliance standards. While compliance has traditionally been seen as a complex and arduous task, the application of innovative tools like Velociraptor can significantly streamline this process and ensure that organizations maintain their adherence to different cybersecurity policies. Cybersecurity compliance is increasingly being seen not just as an administrative burden, but as an essential component of an organization’s cybersecurity framework. Amid the ever-evolving cybersecurity landscape, compliance with the right security standards can help organizations mitigate threats and reduce risk. Velociraptor’s capacity to provide real-time, comprehensive visibility of endpoints makes it a vital instrument in achieving and maintaining security compliance.
 
